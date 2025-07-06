@@ -63,3 +63,15 @@ This is my second internship project where I built a regression model to **predi
    ```bash
    git clone https://github.com/your-username/clv-prediction.git
    cd clv-prediction
+## 🧠 What I Learned
+- Real-world regression model implementation
+
+- Understanding CLV from a business perspective
+
+- Data preparation and performance evaluation
+
+- Communicating results clearly through visualizations and metrics
+
+## 🙏 Acknowledgements
+Thanks to CodeClause for the internship opportunity and guidance on practical machine learning applications.
+
